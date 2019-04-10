@@ -19,6 +19,13 @@ GEOIP,private,DIRECT
 
 PORT,123,DIRECT
 
+DOMAIN-SUFFIX,scmp.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,appsflyer.com,force-remote-dns
+DOMAIN-SUFFIX,hao.news,PROXY,force-remote-dns
+DOMAIN-SUFFIX,maxcdn.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,www.vocabulary.com,PROXY
+DOMAIN-SUFFIX,www.merriam-webster.com,PROXY
+DOMAIN-SUFFIX,www.guo.media,PROXY,force-remote-dns
 DOMAIN-SUFFIX,pstatp.com,DIRECT
 DOMAIN-SUFFIX,snssdk.com,DIRECT
 DOMAIN-SUFFIX,toutiao.com,DIRECT
