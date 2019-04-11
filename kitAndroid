@@ -803,21 +803,21 @@ IP-CIDR,91.108.4.0/22,PROXY
 IP-CIDR,91.108.56.0/22,PROXY
 IP-CIDR,91.108.56.0/23,PROXY
 
-geosite:google,PROXY
-geosite:facebook,PROXY
-geosite:bbc,PROXY
-geosite:github,PROXY
-geosite:youtube,PROXY
-geosite:instagram,PROXY
-geosite:google-ads,REJECT
-geosite:pronhub,PROXY
-geosite:reddit,PROXY
-geosite:telegram,PROXY
-geosite:twitter,PROXY
-geosite:v2ray,PROXY
-geosite:yahoo,PROXY
-geosite:apkpure,PROXY
-geosite:netflix,PROXY
+DOMAIN-KEYWORD,geosite:google,PROXY
+DOMAIN-KEYWORD,geosite:facebook,PROXY
+DOMAIN-KEYWORD,geosite:bbc,PROXY
+DOMAIN-KEYWORD,geosite:github,PROXY
+DOMAIN-KEYWORD,geosite:youtube,PROXY
+DOMAIN-KEYWORD,geosite:instagram,PROXY
+DOMAIN-KEYWORD,geosite:google-ads,REJECT
+DOMAIN-KEYWORD,geosite:pronhub,PROXY
+DOMAIN-KEYWORD,geosite:reddit,PROXY
+DOMAIN-KEYWORD,geosite:telegram,PROXY
+DOMAIN-KEYWORD,geosite:twitter,PROXY
+DOMAIN-KEYWORD,geosite:v2ray,PROXY
+DOMAIN-KEYWORD,geosite:yahoo,PROXY
+DOMAIN-KEYWORD,geosite:apkpure,PROXY
+DOMAIN-KEYWORD,geosite:netflix,PROXY
 
 DOMAIN-SUFFIX,scmp.com,PROXY
 DOMAIN-SUFFIX,appsflyer.com
