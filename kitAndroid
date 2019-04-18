@@ -88,6 +88,7 @@ DOMAIN-SUFFIX,api.urbandictionary.com,PROXY
 DOMAIN-SUFFIX,apigee.com,PROXY
 DOMAIN-SUFFIX,apk-dl.com,PROXY
 DOMAIN-SUFFIX,apkpure.com,PROXY
+DOMAIN-SUFFIX,pureapk.com,PROXY
 DOMAIN-SUFFIX,app-measurement.com,PROXY
 DOMAIN-SUFFIX,app.smartmailcloud.com,PROXY
 DOMAIN-SUFFIX,appdownloader.net,PROXY
